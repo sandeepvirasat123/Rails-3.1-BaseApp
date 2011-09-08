@@ -19,6 +19,7 @@ end
 gem 'compass', :require => false
 gem "facebox-rails"
 
+
 gem 'coderay'
 gem "RedCloth"
 
@@ -45,6 +46,7 @@ gem 'acts-as-taggable-on'
 #gem "cocoon" # Formtastic addition: Partial Forms, Nested, mit "add" remove von nested resource
 gem "simple-navigation"
 
+gem 'active_reload'
 #gem 'rack-raw-upload', :git => 'git://github.com/newbamboo/rack-raw-upload.git'
 # TODO add this to application if want to user rack raw upload
 #require 'rack/raw_upload'
